@@ -1,2 +1,5 @@
 # Online-Hotel-Booking-System
 The project “Online Hotel Booking System” is a system based on accessing the internet to book rooms in a hotel. The purpose of this study is to develop and implement an online hotel reservation system for hotels that will replace the manual method of booking hotel rooms.
+
+
+The purpose of this mini project is to enable customers to make reservations for our hotel online. When the customer visits the website, he/she can view the pictures of the hotel in the gallery section. Details of the rooms and tariff per night is provided. If the customer wants to make a reservation they need to sign up by entering their details like name, phone number, mail id. The customer can then reserve a room by entering details like check in and check out date, number of rooms and number of members. Reservations can be made for dining as well. For both these reservations, a receipt will be issued. Details about the hotel are provided or customer service. The customer can also provide feedback about our hotel.
